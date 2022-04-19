@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  background-color: #e2ebff;
+}
+
+h1 {
+  font-family: 'Fredoka', sans-serif;
+  text-align: center;
+}
+
+span:hover {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
+}
+
+hr{
+  border-color: darkblue;
+  border-style: dotted none none;
+  border-width: 2px;
+  width: 70%;
+
+}
+
+.c1 {
+  position: absolute;
+  right: 300px;
+  bottom: 520px;
+}
+
+.c2 {
+  position: absolute;
+  left: 300px;
+}
+
+.m {
+  position: absolute;
+  left: 320px;
+}
+
+.hacker {
+  width: 70px;
+  height: 70px;
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+.Sahil {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 400px;
+  top: 75px;
+}
+.Web{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 900px;
+  bottom:50px;
+  margin:0;
+}
+.Hobbies{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 400px;
+  bottom: 170px;
+}
+
+.Sahiltext{
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 25px;
+  font-style:oblique;
+  color:#11468F;
+  position:relative;
+  margin:2 auto;
+  bottom:125px;
+  left:700px;
+}
+.WebD{
+  font-family: 'Square Peg', sans-serif;
+  font-size: 25px;
+  font-style:oblique;
+  color:#11468F;
+  position:relative;
+  margin:2 auto;
+  bottom:250px;
+  left:400px;
+}
+.Hobbiestext{
+  font-family: 'Fredoka', sans-serif;
+  font-size: 25px;
+  font-style:oblique;
+  color:#11468F;
+  position:relative;
+  margin:2 auto;
+  bottom:370px;
+  left:700px;
+}
+
+
+
+.text {
+  text-align: right;
+  margin: 0;
+  position: relative;
+  bottom: 35px;
+  right: 20px;
+  font-size: 140%;
+}
+
+.Header {
+  background-color: #141E27;
+  color: white;
+  font-size: 100%;
+  font-family: 'Fredoka', sans-serif;
+  word-spacing: 20px;
+
+
+}
+
+.Middle {
+  position: relative;
+  margin:100px;
+  background-color: #e2ebff;
+  color: #11468F;
+  font-size: 150%;
+  text-align: center;
+  height:500px;
+
+}
+
+.Middle2 {
+  background-color: #e2ebff;
+  height:900px;
+}
+
+.Bottom {
+  background-color: #141E27;
+  padding: 20px;
+}
+
+.Cont {
+  position: relative;
+  bottom: 30px;
+  font-size: 150%;
+  font-family: 'Fredoka', sans-serif;
+  color: #e2ebff;
+  text-align: center;
+}
+
+.Footer1 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 720px;
+  bottom: 40px;
+  border-radius: 60%;
+  background-color: white;
+}
+
+.Footer2 {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 590px;
+  bottom: 40px;
+  border-radius: 60%;
+  background-color: white;
+}
+
+.Copyright{
+  text-align: center;
+  font-family: 'Fredoka', sans-serif;
+  font-style: italic;
+  color:#e2ebff;
+  margin:0;
+}
+.Footer1:hover{
+  background-color:blue;
+}
+
+.Footer2:hover{
+  background-color: blue;
+}
